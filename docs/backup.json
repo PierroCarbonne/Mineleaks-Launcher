@@ -1,0 +1,13 @@
+{
+    "untrackedFiles": [
+        {
+        "appliesTo": ["files"],
+        "patterns": [
+            "resourcepacks/*.zip",
+            
+            "resourcepacks/*.zip.disabled"
+        ]
+        }
+    ]
+}
+"MD5": "d7b3b4bc38d3ed32cdf89deb3767383d"

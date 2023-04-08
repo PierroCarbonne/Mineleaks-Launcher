@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Mineleaks Launcher</title>
+        <link>https://discord.gg/xf3u2chJAB</link>
+    <item>
+        <title>Welcome to Mineleaks Launcher !</title>
+        <content:encoded>
+            <![CDATA[ <p>
+                Welcome to the very first Mineleaks Launcher</p></br> <p>Here is the discord if you need help! <a href="https://discord.gg/xf3u2chJAB">Click Here</a></p> ]]>
+        </content:encoded>
+        <!-- <dc:creator>GeekCorner</dc:creator> -->
+        <pubDate>30 March 2023</pubDate>
+        <!--       <slash:comments>2023</slash:comments> -->
+    </item>
+    <item>
+        <title>I hope you will like the launcher !</title>
+        <content:encoded>
+            <![CDATA[ <p>This is our very first one so please bear with us</p></br> <ul> <li>HTML is supported too</li> </ul> ]]>
+        </content:encoded>
+        <author>Frealac</author>
+        <pubDate>30 March 2023</pubDate>
+        </item>
+    </channel>
+</rss>
